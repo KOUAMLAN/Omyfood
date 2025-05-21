@@ -6,9 +6,8 @@ Découvrez, choisissez, dégustez : l’expérience gastronomique nouvelle gén�
 
 ## 🚀 Liens rapides
 
-- **Repository GitHub** : [👉 https://github.com/KOUAMLAN/Omyfood](https://github.com/KOUAMLAN/Omyfood)
-- **Version en ligne** : [👉 https://kouamlan.github.io/Omyfood/](https://kouamlan.github.io/Omyfood/)
-
+- **Repository GitHub** : [👉 https://github.com/KOUAMLAN/Omyfood]Omyfood
+- **Version en ligne** : [👉 https://kouamlan.github.io/Omyfood/]
 ---
 
 ## ✨ Concept
