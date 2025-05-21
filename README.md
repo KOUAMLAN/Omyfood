@@ -1,3 +1,4 @@
+
 # 🍽️ Ohmyfood – Réservez le menu qui vous convient
 
 Découvrez, choisissez, dégustez : l’expérience gastronomique nouvelle génération à Paris.
@@ -6,13 +7,15 @@ Découvrez, choisissez, dégustez : l’expérience gastronomique nouvelle gén�
 
 ## 🚀 Liens rapides
 
-- **Repository GitHub** : [👉 https://github.com/KOUAMLAN/Omyfood]Omyfood
-- **Version en ligne** : [👉 https://kouamlan.github.io/Omyfood/]
+- **Repository GitHub** : [👉 https://github.com/KOUAMLAN/Omyfood](https://github.com/KOUAMLAN/Omyfood)
+- **Version en ligne** : [👉 https://kouamlan.github.io/Omyfood/](https://kouamlan.github.io/Omyfood/)
+
 ---
 
 ## ✨ Concept
 
 Ohmyfood propose une sélection de restaurants d’exception et permet à chacun de :
+
 - **Choisir un restaurant**
 - **Composer son menu en ligne**
 - **Déguster sans attente sur place**
@@ -34,7 +37,7 @@ Le tout, dans un univers graphique moderne et animé, pensé pour les gourmets p
 ## 🖥️ Fonctionnalités principales
 
 - **Accueil** : Présentation, fonctionnement, sélection de 4 restaurants parisiens
-- **Pages restaurants** : Menus animés, ajout de plats à la commande, effet cœur "J’aime"
+- **Pages restaurants** : Menus animés, ajout de plats à la commande, effet cœur “J’aime”
 - **Loader d’accueil** : Animation inédite à l’ouverture du site
 - **Navigation fluide** : Header, footer, accessibilité, responsive design
 
