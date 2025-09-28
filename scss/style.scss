@@ -1,31 +1,50 @@
-//  vendors
-@import "./vendors/google-fonts";
+@use "sass:color";
 
-// utils
-@import "./utils/variables";
-@import "./utils/mixins";
-@import "./utils/extends";
+body {
+  background: white;
+  position: relative;
+  width: 100%;
+  margin: auto;
+}
 
-// base
-@import "./base/global";
-@import "./base/typography";
+header {
+  background: white;
+}
 
-// layout
-@import "./layout/loader";
-@import "./layout/header";
-@import "./layout/footer";
- 
-// components
+main {
+  z-index: 0;
+  margin: auto;
+}
 
-@import "./components/button-style1";
-@import "./components/button-style2";
-@import "./components/heart";
-@import "./components/card";
-@import "./components/form";
+footer {
+  width: 100%;
+  background-color: $footer-background-color;
+}
 
+ul {
+  list-style: none;
+}
 
-// pages
-@import "./pages/homepage";
-@import "./pages/restaurant";
+a {
+  text-decoration: none;
+  color: inherit;
+}
 
+fieldset,
+button,
+input {
+  border: none;
+}
 
+:focus {
+  outline: none;
+}
+
+address {
+  font-style: inherit;
+}
+
+// Exemple si besoin de remplacer lighten dans ce fichier :
+.some-class {
+  background-color: color.adjust($some-color, $lightness: 0.05);
+}

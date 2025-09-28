@@ -4,9 +4,15 @@
   "description": "Découvrez, choisissez, dégustez : l’expérience gastronomique nouvelle génération à Paris.",
   "main": "index.js",
   "scripts": {
+    "build": "sass --style=compressed scss:dist/css",
+    "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "sass": "^1.93.2"
+  }
 }
