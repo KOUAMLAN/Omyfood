@@ -1,0 +1,54 @@
+// # - Colors -------------------------------- # //
+// ## -- Badge - colors --------------------- ## //
+$badge-primary-color: #99e2d0;
+$badge-secondary-color: #008766;
+$badge-primary-color--light: lighten($badge-primary-color, 3%);
+
+// ## -- Gradient colors -------------------- ## //
+$gradient-primary-color: rgba(147, 86, 220);
+$gradient-secondary-color: #ff79da;
+$gradient-primary-color--light: lighten($gradient-primary-color, 3%);
+$gradient-secondary-color--light: lighten($gradient-secondary-color, 3%);
+$gradient-secondary-color--dark: darken($gradient-secondary-color, 50%);
+
+// ## -- Background colors ------------------ ## //
+$footer-background-color: #353535;
+$primary-background-color: #f3f3f3;
+$secondary-background-color: #f7f7f7;
+$tertiary-background-color: #eaeaea;
+$menu-background-color:#f6f6f6;
+$restaurant-page-backgound:$menu-background-color;
+
+// ## -- Fonts colors ----------------------- ## //
+$footer-font-color: white;
+$icon-button-style2-color: #7a7a7a;
+
+// ## -- shadow colors ---------------------- ## //
+$shadow-color: rgba(0, 0, 0, 0.25);
+
+// ## -- loader dots colors ----------------- ## //
+$loader-colors: (
+  1: $badge-secondary-color,
+  2: $badge-primary-color,
+  3: #89c8fa,
+  4: $gradient-primary-color,
+  5: $gradient-secondary-color,
+);
+// ############################################# //
+
+// # - Fonts --------------------------------- # //
+// ## -- Main ------------------------------- ## //
+$main-font: "Roboto", sans-serif;
+
+// ## -- Titles ----------------------------- ## //
+$title-font: "Shrikhand", cursive;
+
+// ## -- weight ---------------------------- ## //
+$thin: 300;
+$regular: 400;
+$semi-bold: 500;
+$bold: 700;
+
+// # -- for testing purpose only ---------- ## //
+// ## -- svg heart path ------------------- ## //
+$heart-shape: "M12.2206 2.40576L12.2208 2.40551C14.2226 0.15233 17.4035 -0.169451 19.5243 1.80187C22.0186 4.1243 22.156 8.32326 19.9123 10.8492L19.9122 10.8493L11.5978 20.2148C11.2596 20.5956 10.7372 20.5956 10.399 20.2148L2.0848 10.8495C-0.15494 8.32357 -0.0175439 4.1245 2.47664 1.80201C4.59762 -0.169649 7.78271 0.152585 9.77992 2.40514L9.78047 2.40576L10.627 3.35732L11.0005 3.77727L11.3741 3.35732L12.2206 2.40576Z";
